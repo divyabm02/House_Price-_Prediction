@@ -10,6 +10,9 @@ To predict the selling price of the house with a given set of features
 ### **Presentation of the project**
 The ppt of is uploaded in slideshare and the link is shared below
  https://www.emaze.com/@AOZFWIFTL/prediction-of-housing-price
+ 
+### **Screenshots of the application**
+![alt text](ui_Result1.JPG,UI_Result2.JPG,UI_Result3.JPG)
 
 
 
